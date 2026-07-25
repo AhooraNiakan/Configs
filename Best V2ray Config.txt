@@ -47,6 +47,7 @@ vless://66ea0b4c-8c39-4e8b-92f0-0a9065218d37@167.82.0.4:80?encryption=none&secur
 vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?encryption=none&security=tls&sni=ad-007.cloud25075.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-007.cloud25075.info&path=%2F#EPODONIOS-clone
 
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?encryption=none&security=tls&sni=ad-004.zen2bswa.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ad-004.zen2bswa.info&path=%2F#EPODONIOS-clone
+
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@gr093.bamajobin.ir:2053?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&authority=&serviceName=api.v1.data&mode=gun#EPODONIOS-clone
 
 vless://e044297a-304f-40a9-a9fb-d17b744fa781@178.104.225.122:44444?encryption=none&security=reality&sni=yahoo.com.&fp=chrome&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&sid=f37329647c9a1886&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#EPODONIOS-clone
